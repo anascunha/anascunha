@@ -1,36 +1,69 @@
-## Olá! 👋 Eu sou Ana Sara Cunha, Engenheira Civil e Engenheira de Dados em formação.
+<p align="right">
+  <a href="./README.pt-BR.md">🇧🇷 Versão em Português</a>
+</p>
 
-🚀 Com mais de 5 anos de experiência em engenharia civil e manutenção predial, estou em transição para a área de **análise de dados**. Atualmente, estou focada em utilizar ferramentas como **Python** e **Power BI** para criar soluções baseadas em dados que otimizam a tomada de decisões em projetos de engenharia e além.
+## Hi there! 👋 I'm Ana Sara Cunha
 
-👩‍💼 Minha trajetória envolve desde o planejamento e orçamento de obras até o diagnóstico de estruturas prediais. Agora, estou aplicando esse conhecimento para desenvolver dashboards interativos e realizar análises de dados que tragam insights valiosos para negócios e projetos.
+🎯 **Data & Analytics Engineer in training | Background in Civil Engineering**
 
-🛠️ Meu kit de ferramentas inclui **Power BI**, **Python**, **SQL** e **Excel Avançado**. Estou constantemente aprendendo e aplicando novos métodos de análise de dados, e atualmente trabalho em projetos que integram dados da engenharia com soluções visuais em Power BI.
+I’m a professional transitioning into the Data field, with a strong background in process analysis, planning, and structured problem-solving. My engineering background strengthens my logical thinking and data-driven mindset.
 
-🧠 Meu foco é resolver problemas de forma eficiente, transformando dados brutos em informações claras e acessíveis para todos. Com uma abordagem voltada à agilidade e precisão, adapto metodologias de análise para atender às necessidades específicas de cada projeto.
+Currently, I focus on **Data Engineering and Analytics projects**, building data pipelines, dashboards, and automations designed to generate business value.
 
-Vamos nos conectar e construir o futuro juntos! 🌟
+🛠️ **Current Tech Stack:**
+- Python (Pandas, ETL, automation)
+- SQL (analytical queries)
+- Power BI (dashboards & basic modeling)
+- Docker and Cloud fundamentals
+- NoSQL (MongoDB – fundamentals)
+- Git & GitHub
 
-[![Linkedin: Ana Sara](https://img.shields.io/badge/-AnaSara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anasaracunha/)](https://www.linkedin.com/in/anasaracunha/)
-![GitHub Followers](https://img.shields.io/github/followers/anascunha?label=follow&style=social)
+📊 I’ve developed projects involving:
+- API data ingestion
+- Data transformation with Python and SQL
+- Basic Medallion Architecture modeling
+- Decision-making dashboards
 
-### Principais Habilidades:
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-blue?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+🚀 Interested in working with:
+Data Engineering | Analytics Engineering | Data Analytics | Cloud
 
-### IDES:
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+### Let’s connect:
+[LinkedIn](https://www.linkedin.com/in/anasaracunha/)
 
-## Sobre mim
+---
 
-- 🔭 Atualmente, estou desenvolvendo projetos de Engenharia de dados e dashboards.
-- 🌱 Estudando Python e Power BI para aprofundar minhas habilidades.
-- 👯 Busco colaborar em projetos que envolvam engenharia e dados.
-- 📫 Como me encontrar:
-  [LinkedIn](https://www.linkedin.com/in/anasaracunha/)
+### Technologies & Tools
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anascunha&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anascunha&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-0170FE?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### Cloud / Plataforms
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS (Foundation)](https://img.shields.io/badge/AWS%20Foundation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Version e IDEs
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+---
+
+📌 Em constante evolução e aprendizado. Aberta a colaborações e projetos.
