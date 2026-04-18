@@ -1,56 +1,60 @@
 <p align="right">
-  <a href="./README.md">🇺🇸 English Version</a>
+  <a href="./README.pt-BR.md">🇧🇷 Versão em Português</a>
 </p>
 
-# Olá! 👋 Eu sou Ana Sara Cunha
+# Hi there! 👋 I'm Ana Sara Cunha
 
-### 🏗️ Projetando a ponte entre a precisão da Engenharia Civil e a escalabilidade da Modern Data Stack (MDS)
+### 🏗️ Bridging Civil Engineering precision with Modern Data Stack (MDS) scalability
 
-Sou uma **Engenheira de Dados e Arquiteta de Soluções** focada na construção de plataformas de dados modernas, resilientes e orientadas ao valor de negócio. Com sólida base em Engenharia Civil, trago rigor analítico para a estruturação de pipelines, identificação de padrões e resolução de problemas arquiteturais complexos.
+I am a **Data Engineer and Solution Architect** focused on building modern, resilient, and business-value-driven data platforms. With a background in Civil Engineering, I bring analytical rigor to pipeline structuring, pattern identification, and complex architectural problem-solving.
 
-Atualmente, atuo no ecossistema da **Indicium IA (Programa Lighthouse)**, desenhando e implementando arquiteturas que transformam dados brutos em ativos estratégicos prontos para a tomada de decisão.
+Currently, I operate within the **Indicium AI (Lighthouse Program)** ecosystem, designing and implementing architectures that transform raw data into strategic, decision-ready assets.
 
-### 🛠️ Expertise Técnica
 
-#### **Engenharia de Dados & Transformação**
-* **Linguagens:** SQL (Especialista), Python (Avançado - Pandas, PySpark), R.
-* **MDS & Modelagem:** Especialista em dbt (Core/Cloud), Databricks, Snowflake, Arquitetura Medalhão e Modelagem Dimensional (Kimball).
-* **Frameworks:** Macros dbt, Pacotes, Snapshots e SCD Tipo 2 para rastreabilidade histórica.
+### 🛠️ Technical Expertise
 
-#### **Nuvem & Infraestrutura (IaC)**
-* **Provedores:** Azure (ADF, Blob Storage, Key Vault), fundamentos de AWS e GCP.
-* **Infraestrutura como Código:** Terraform para provisionamento de ambientes de dados escaláveis.
-* **DevOps/DataOps:** CI/CD (GitHub Actions, Bitbucket Pipelines), Docker e controle de versão Git.
+#### **Data Engineering & Transformation**
+* **Languages:** SQL (Specialist), Python (Advanced - Pandas, PySpark), R.
+* **MDS & Modeling:** dbt Specialist (Core/Cloud), Databricks, Snowflake, Medallion Architecture, and Dimensional Modeling (Kimball).
+* **Frameworks:** dbt Macros, Packages, Snapshots, and SCD Type 2 for historical traceability.
 
-#### **Inovação & IA**
-* **GenAI & Agentes:** Desenvolvimento de Agentes de IA para monitoramento operacional (redução de MTTR) e diagnósticos técnicos.
-* **Arquiteturas de IA:** Frameworks de orquestração (LangChain, LangGraph), bancos vetoriais e sistemas NL2SQL para democratização de dados.
+#### **Cloud & Infrastructure (IaC)**
+* **Providers:** Azure (ADF, Blob Storage, Key Vault), AWS and GCP fundamentals.
+* **Infrastructure as Code:** Terraform for provisioning scalable data environments.
+* **DevOps/DataOps:** CI/CD (GitHub Actions, Bitbucket Pipelines), Docker, and Git version control.
 
-### 📊 Impacto e Principais Realizações
-* **Agentes Inteligentes:** Liderança na especificação e desenvolvimento de Agentes de IA integrados ao Slack e Snowflake para monitoramento de DAGs.
-* **Estratégia & Discovery:** Atuação estratégica em processos de Discovery para mapeamento de dores de negócio e design de arquiteturas analíticas (Academy Analytics).
-* **Migração de CRM:** Mapeamento técnico e estratégico para migração de dados do CRM Bitrix24 para o Salesforce, garantindo integridade referencial.
-* **Governança Ativa:** Implementação de persistência de metadados via Unity Catalog (persist_docs), eliminando a dependência de documentação externa.
+#### **Innovation & AI**
+* **GenAI & Agents:** Development of AI Agents for operational monitoring (MTTR reduction) and technical diagnostics.
+* **AI Architectures:** Orchestration frameworks (LangChain, LangGraph), vector databases, and NL2SQL systems for data democratization.
 
-### 🚀 Projetos em Destaque
-* **[Olist Data Platform]:** Construção de uma plataforma de dados ponta a ponta (Zero-Budget) utilizando Terraform, dbt Core e Agentes NL2SQL sobre uma arquitetura Medalhão.
-* **Certificações:** Especialista Certificada em **dbt Fundamentals** e **Google Analytics Professional**.
 
-📊 Desenvolvi projetos envolvendo:
-- Ingestão de dados via API.
-- Transformação de dados com Python e SQL.
-- Modelagem em Arquitetura Medalhão.
-- Dashboards para suporte à tomada de decisão.
+### 📊 Impact and Key Achievements
+* **Intelligent Agents:** Led the specification and development of AI Agents integrated with Slack and Snowflake for DAG monitoring.
+* **Strategy & Discovery:** Strategic role in Discovery processes to map business pain points and design analytical architectures (Academy Analytics).
+* **CRM Migration:** Technical and strategic mapping for data migration from Bitrix24 to Salesforce, ensuring referential integrity.
+* **Active Governance:** Implementation of metadata persistence via Unity Catalog (persist_docs), eliminating external documentation dependencies.
 
-🚀 Interessada em atuar com:
-Engenharia de Dados | Analytics Engineering | Data Analytics | Nuvem
 
-### Vamos nos conectar:
+### 🚀 Featured Projects
+* **[Olist Data Platform]:** Building an End-to-End (Zero-Budget) data platform using Terraform, dbt Core, and NL2SQL Agents on top of a Medallion architecture.
+* **Certifications:** Certified **dbt Fundamentals** Specialist and **Google Analytics Professional**.
+
+
+📊 I’ve developed projects involving:
+- API data ingestion
+- Data transformation with Python and SQL
+- Basic Medallion Architecture modeling
+- Decision-making dashboards
+
+🚀 Interested in working with:
+Data Engineering | Analytics Engineering | Data Analytics | Cloud
+
+### Let’s connect:
 [LinkedIn](https://www.linkedin.com/in/anasaracunha/) | [Email](mailto:ana.sara.sc@hotmail.com)
 
 ---
 
-### Tecnologias & Ferramentas
+### Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -77,7 +81,7 @@ Engenharia de Dados | Analytics Engineering | Data Analytics | Nuvem
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
 
-### Nuvem / Plataformas
+### Cloud / Plataforms
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -86,13 +90,14 @@ Engenharia de Dados | Analytics Engineering | Data Analytics | Nuvem
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Versionamento e IDEs
+### Version e IDEs
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 ---
 
-📌 Projetando a ponte entre dados brutos e impacto real com o rigor da engenharia.
+📌 Bridging the gap between raw data and real-world impact with engineering rigor.
